@@ -16,14 +16,15 @@
 </a>
 
 ## 💹 blockchain is a technology that enables cryptographic transactions
-
-<!-- ## ₿ BTC
+## ₿ BTC
 ## ⧫ ETC
-![imagem]()
-> in addition to bitcoin chart, we also have ethereum, litecoin, google, apple...
 
+<!-- ![imagem]()
+> in addition to bitcoin chart, we also have ethereum, litecoin, google, apple... -->
 
- -->
+## 💹 whenever you search for an action use .SA at the end of the name
+
+ 
 [API USED](https://coinmarketcap.com/api/)
 
 
