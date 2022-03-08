@@ -26,7 +26,6 @@
  -->
 [API USED](https://coinmarketcap.com/api/)
 
-* what maybe i still do *
 
 
 
